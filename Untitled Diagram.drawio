@@ -1,30 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.6">
-  <diagram name="Page-1" id="EJzefQqtVguapPeibL_m">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Page-1" id="N0aLUImtWfsf37ES5xlU">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-oYNQyrPG7nwtBovVGz--1" value="Payment" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="170" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-oYNQyrPG7nwtBovVGz--3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="204.5" as="sourcePoint" />
-            <mxPoint x="210" y="204.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-oYNQyrPG7nwtBovVGz--4" value="Service Bus" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="187.5" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="-oYNQyrPG7nwtBovVGz--6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="204.5" as="sourcePoint" />
-            <mxPoint x="410" y="204.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-oYNQyrPG7nwtBovVGz--7" value="Order" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="70" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
